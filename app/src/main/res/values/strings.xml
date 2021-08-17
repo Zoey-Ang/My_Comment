@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Comment</string>
+    <string name="show_5_stars">show 5 stars</string>
+    <string name="name_of_show">Name of show</string>
+    <string name="enter_the_year_of_release">Enter the year of release</string>
+    <string name="enter_your_comments_here">Enter your comments here</string>
+</resources>
